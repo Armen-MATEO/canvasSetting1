@@ -1,2 +1,2 @@
-# canvasSetting1
+# canvas-game
 Created with CodeSandbox
